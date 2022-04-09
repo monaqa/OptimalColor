@@ -23,3 +23,7 @@
   - `#179f8a`
   - `#9a8427`
   - `#e77335`
+
+配色の様子はこんな感じ。
+
+![normal.png](https://user-images.githubusercontent.com/48883418/162579902-f75cb291-8eb5-4e18-955a-8f44f6757337.png)
